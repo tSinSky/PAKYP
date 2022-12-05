@@ -4,6 +4,8 @@ from datetime import datetime
 
 #-------------------------Переменные---------------------------
 
+
+
 #Логирование
 dir_log = "/var/log/install-assistant/"
 main_log = "/var/log/install-assistant/install-assistant.log"
